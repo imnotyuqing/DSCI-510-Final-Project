@@ -1,0 +1,33 @@
+{
+  "run_at": "2025-12-10T01:34:14.648016+00:00",
+  "start_date": "2024-01-01T00:00:00+00:00",
+  "end_date": "2025-12-10T00:00:00+00:00",
+  "ai_terms": [
+    "chatgpt",
+    "gpt",
+    "gemini",
+    "claude",
+    "llm",
+    "openai",
+    "anthropic",
+    "ai",
+    "\"gen ai\""
+  ],
+  "edu_terms": [
+    "student",
+    "teacher",
+    "faculty",
+    "professor",
+    "admin",
+    "principal",
+    "superintendent",
+    "school",
+    "classroom",
+    "syllabus",
+    "assignment",
+    "grading"
+  ],
+  "query_count": 108,
+  "post_count": 88274,
+  "api_calls": 1145
+}

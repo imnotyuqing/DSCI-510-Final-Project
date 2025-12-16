@@ -1,0 +1,11 @@
+python-dotenv
+requests
+pandas
+numpy
+tqdm
+langdetect
+scikit-learn
+matplotlib
+seaborn
+nltk
+jupyter
